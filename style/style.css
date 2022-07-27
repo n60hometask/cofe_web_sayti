@@ -1,0 +1,389 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-color: rgb(255, 247, 238);
+    /* width: 1440px;
+    height: 3642px;
+    margin: 0 auto; */
+}
+.coffeeroasters-logo{
+    display: flex;
+    width: 1280px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 43px;
+}
+.logo_1{
+    margin-left: 8px;
+}
+.home{
+    margin-left: 650px;
+    margin-top: 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: 'Barlow', sans-serif;
+}
+  
+.home_a{
+    margin-left: 30px;
+    text-decoration-line: none;
+    color:  #83888F;
+    margin-top: 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: 'Barlow', sans-serif;
+
+}
+.home_a:hover{
+    color: #333D4B;
+}
+/* create-cofe */
+
+.great-cofee{
+    width: 1280px;
+    height: 600px;
+    margin: 0 auto;
+    background-image: url(/img/Bitmap.png);
+    margin-top: 48px;
+    border-radius: 5px;
+    
+}
+.greaat{
+    width: 493px;
+    height: 145px;
+    color: white;
+    padding-top: 117px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    font-family: 'Fraunces', serif;
+    margin-left: 86px;
+}
+
+.great-title{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 445px;
+    height: 78px;
+    margin-left: 86px;
+    margin-top: 140px;
+    opacity: 0.8;
+}
+.great-button{
+    width: 217px;
+    height: 56px;
+    border-radius: 6px;
+    background-color:  #66D2CF;
+    border: 1px solid  #66D2CF;
+    color: white;
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    margin-left: 86px;
+    margin-top: 56px;
+    font-size: 18px;
+}
+.great-button:hover{
+    background-color: #007f7b;
+    border:  1px solid #007f7b;
+}
+
+/* Rectangle */
+
+.Rectangle{
+    width: 1111px;
+    height: 524.55px;
+    /* border: 1px solid rebeccapurple; */
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.our{
+    width: 1111px;
+    height: 196px;
+
+   
+}
+.expresso{
+    width: 255px;
+    height: 193px;
+    margin-top: -70px;
+
+}
+.planta{
+    display: flex;
+    width: 1111px;
+    height: 200px;
+    /* border: 1px solid rebeccapurple; */
+    margin-top: 100px;
+}
+.planta_1{
+    width: 255px;
+    height: 150px;
+    /* border: 1px solid red; */
+    margin-top: 71px;
+    
+}
+.gran{
+   /* margin-left: 70px; */
+   font-style: normal;
+   font-weight: 900;
+   font-size: 24px;
+   line-height: 32px;
+   font-family: 'Fraunces', serif;
+   text-align: center;
+}
+.gran-title{
+    text-align: center;
+    margin-top: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Barlow', sans-serif;
+    margin-left: 30px;
+}
+
+
+/* Bitmap */
+
+/* .Bitmap{
+    width: 1530px;
+    height: 1021px;
+    border: 1px solid red;
+    margin: 0 auto;
+    margin-top: 188px;
+} */
+.Bitmap{
+    width: 1280px;
+    height: 600px;
+    /* border: 1px solid rebeccapurple; */
+    margin: 0 auto;
+    margin-top: 188px;
+    background-color: rgb(0, 34, 39);
+
+}
+.Bitmap_1{
+    display: flex;
+    width: 1280px;
+    height: 128px;
+    /* border: 1px solid red; */
+    margin-top: 300px;
+    margin-left: 50px;
+}
+
+.why{
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: white;
+    text-align: center;
+  padding-top: 112px;
+}
+
+.why_title{
+    margin-left: 350px;
+    text-align: center;
+    width: 540px;
+    height: 80px;
+    mix-blend-mode: normal;
+    margin-top: 32px;
+    color: white;
+    opacity: 0.8;
+}
+.Exclusive{
+    margin-top: -240px;
+    width: 350px;
+    height: 382px;
+    /* border: 1px solid red; */
+    margin-left: 30px;
+    background-color:  rgba(14, 135, 132, 1);
+    border-radius: 8px;
+}
+.Exclusive_img{
+    width: 72px;
+    height: 72px;
+    margin-top: 72px;
+    margin-left: 135px;
+}
+.best{
+    text-align: center;
+    margin-top: 56px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FEFCF7;
+}
+.best_title{
+    width: 255px;
+    height: 78px;
+    text-align: center;
+    margin-left: 40px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+/* Group 17 */
+
+.how-oyna{
+    width: 1045px;
+    height:700px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    margin-top: 400px;
+}
+
+/* how-oyna */
+
+
+.works{
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+.hr-chiqziq{
+width: 780px;
+height: 30px;
+/* border:  1px solid red; */
+margin-top: 80px;
+}
+
+.oval_1{
+    border-radius: 10px;
+    border-radius: 13px;
+}
+
+.oval{
+    margin-left: 300px;
+    border-radius: 13px;
+    margin-top: 81px;
+
+}
+.Pick-oyna{
+    width: 300px;
+    height: 413px;
+    /* border:  1px solid rebeccapurple; */
+    margin-top: 67px;
+}
+.Pick{
+    display: flex;
+}
+.Pick-oyna1{
+    width: 300px;
+    height: 413px;
+    /* border:  1px solid rebeccapurple; */
+    margin-top: 67px;
+    margin-left: 95px;
+}
+.pick-h4{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    font-family: 'Fraunces', serif;
+    color: #333D4B;
+    width: 255px;
+    height: 73px;
+    text-align: left;
+    margin-top: 38px;
+}
+.pick-title{
+    width: 285px;
+    height: 130px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    margin-top: 42px;
+}
+.pick_button{
+    width: 217px;
+    height: 56px;
+    color: white;
+    background-color: rgba(102, 210, 207, 1);
+    border: 1px solid  rgba(102, 210, 207, 1);
+    border-radius: 6px;
+    margin-top: 20px;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+}
+.pick_button:hover{
+    background-color: #007f7b;
+    border:  1px solid #007f7b;
+}
+
+/* Mask  */
+
+.Mask{
+    display: flex;
+    width: 1280px;
+    height: 120px;
+    /* border: 1px solid red; */
+    background-color: rgba(44, 52, 62, 1);
+    margin: 0 auto;
+    margin-top: 300px;
+}
+.img{
+    display: flex;
+    width: 800px;
+    height: 30px;
+    /* border: 1px solid; */
+    margin-top: 47px;
+    margin-left: 85px;
+}
+
+.logo__ul{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 6px;
+}
+.hoem{
+    margin-left: 32px;
+    text-decoration: none;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+.hoem:hover{
+    color:#525252 ;
+}
+.cofe-fezbook{
+    display: flex;
+    width: 24px;
+    height: 24px;
+    margin-top: 47px;
+    margin-left: 150px;
+}
+.path{
+    margin-left: 32px;
+}
